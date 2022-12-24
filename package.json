@@ -2,20 +2,20 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://efirnet.github.io/Bose-NC-700-Promo-project/",
+  "homepage": "https://efirnet.github.io/bose-nc-700-team-project",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /Bose-NC-700-Promo-project/"
+    "build": "parcel build src/*.html --public-url /bose-nc-700-team-project/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/efirnet/Bose-NC-700-Promo-project.git"
+    "url": "git+https://github.com/goitacademy/parcel-project-template.git"
   },
   "keywords": [],
-  "author": "Denys Yefimov <efirnet@gmail.com>",
+  "author": "Alexander Repeta <alexander.repeta@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/efirnet/Bose-NC-700-Promo-project/issues"
+    "url": "https://github.com/goitacademy/parcel-project-template/issues"
   },
   "dependencies": {
     "modern-normalize": "^1.1.0",
